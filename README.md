@@ -1,2 +1,2 @@
 # spring-boot-app
-This repo has the simple spring boot jar.
+This repo has the simple spring boot jar
