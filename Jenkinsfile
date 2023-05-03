@@ -4,12 +4,12 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Build action is ${action}'
+                echo "Build action is ${action}"
             }
         }
          stage('Test') {
             steps {
-                echo 'Test is ${action}'
+                echo "Test is ${action}"
             }
         }
     }
